@@ -39,7 +39,7 @@ export default hopeTheme(
       comment: {
         provider: 'Waline',
         login: 'force',
-        serverURL: 'https://walinejs.comment.lithub.cc',
+        serverURL: 'https://waline-tau-blue.vercel.app',
         recaptchaV3Key: '6Lfz4-shAAAAANgsYRR0datkzv6zLIaKrSqfHsiG',
         pageview: true,
         reaction: true,
@@ -69,6 +69,7 @@ export default hopeTheme(
         components: ['BiliBili', 'VidStack'],
       },
 
+  
       docsearch: {
         appId: 'W34KABV4KM',
         apiKey: 'd189586c601d439f9247bdaf95b3555f',
