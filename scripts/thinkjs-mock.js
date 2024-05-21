@@ -3,6 +3,6 @@ global.think = {
   config: (name) => {
     if (name === 'domPurify') return {};
 
-    return 'domPurify';
+    return undefined;
   },
 };
