@@ -10,7 +10,7 @@ export default defineUserConfig({
     '/': {
       lang: 'zh-CN',
       title: 'Waline',
-      description: '一款简洁、安全的评论系统。',
+      description: '收藏那些有用的东西，你的资源百科全书✨',
     },
     '/en/': {
       lang: 'en-US',
