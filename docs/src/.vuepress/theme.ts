@@ -38,7 +38,7 @@ export default hopeTheme(
     plugins: {
       comment: {
         provider: 'dataopu',
-        login: 'dataopu',
+        login: 'force',
         serverURL: 'https://waline-tau-blue.vercel.app',
         recaptchaV3Key: '6Lfz4-shAAAAANgsYRR0datkzv6zLIaKrSqfHsiG',
         pageview: true,
